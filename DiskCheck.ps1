@@ -6,3 +6,5 @@ Get-PSDrive -PSProvider FileSystem | ForEach-Object {
     $totalGB = [math]::Round($_.Used/1GB + $freeGB,2)
     Write-Output "Drive $($_.Name): $freeGB GB free out of $totalGB GB total"
 }
+
+#Lists all drives with free and total space in GB.
