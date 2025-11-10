@@ -29,3 +29,5 @@ These scripts help me understand how to perform basic system maintenance and tro
 - Scripts are beginner-friendly and safe to run.
 - All scripts include comments to explain what each part does.
 - The goal is to demonstrate my practical IT skills and my ability to learn scripting for IT support tasks.
+
+<img width="970" height="503" alt="image" src="https://github.com/user-attachments/assets/614af0d1-ae1e-4e14-bb29-9552fcd514b7" />
